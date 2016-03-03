@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Eclipse related
+.cproject
+.project
+.settings/
+
+# Binaries
+flush_cache
+prefetchtest
